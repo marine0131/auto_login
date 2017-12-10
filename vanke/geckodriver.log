@@ -1,0 +1,1355 @@
+1512873563676	geckodriver	INFO	geckodriver 0.19.1
+1512873563684	geckodriver	INFO	Listening on 127.0.0.1:40928
+1512873565036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RzMaU4wYTIws"
+1512873566286	Marionette	INFO	Enabled via --marionette
+1512873569888	Marionette	INFO	Listening on port 39303
+1512873569987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512873570201	Marionette	DEBUG	Register listener.js for window 2147483649
+1512873573805	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512873575027	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512873575028	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512873576123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512873576339	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512873643768	geckodriver	INFO	geckodriver 0.19.1
+1512873643778	geckodriver	INFO	Listening on 127.0.0.1:35331
+1512873645098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p5QmOUpKf4xg"
+1512873646395	Marionette	INFO	Enabled via --marionette
+1512873650000	Marionette	INFO	Listening on port 36369
+1512873650181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512873650382	Marionette	DEBUG	Register listener.js for window 2147483649
+1512873653992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512873654356	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512873654357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512873655720	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512873655892	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512873687674	geckodriver	INFO	geckodriver 0.19.1
+1512873687684	geckodriver	INFO	Listening on 127.0.0.1:41638
+1512873689034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qnBAt64FfMqs"
+1512873690288	Marionette	INFO	Enabled via --marionette
+1512873693634	Marionette	INFO	Listening on port 36579
+1512873693706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512873693926	Marionette	DEBUG	Register listener.js for window 2147483649
+1512873697517	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512873697835	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512873697836	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512873699073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512873699303	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512873699875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512875397797	geckodriver	INFO	geckodriver 0.19.1
+1512875397806	geckodriver	INFO	Listening on 127.0.0.1:39147
+1512875399177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tTsg0v8Dm2lI"
+1512875400447	Marionette	INFO	Enabled via --marionette
+1512875403915	Marionette	INFO	Listening on port 32913
+1512875404094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875404283	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875404738	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875405094	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875405095	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875406399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875406670	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512875664047	geckodriver	INFO	geckodriver 0.19.1
+1512875664057	geckodriver	INFO	Listening on 127.0.0.1:37333
+1512875665434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gXPZrIlrV6rD"
+1512875666690	Marionette	INFO	Enabled via --marionette
+1512875670530	Marionette	INFO	Listening on port 32800
+1512875670612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875670842	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875671298	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875671628	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875671629	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875672948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875673221	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512875720021	geckodriver	INFO	geckodriver 0.19.1
+1512875720031	geckodriver	INFO	Listening on 127.0.0.1:60732
+1512875721404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ibB1cKG7ypeP"
+1512875722713	Marionette	INFO	Enabled via --marionette
+1512875726238	Marionette	INFO	Listening on port 34331
+1512875726266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875726488	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875727154	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875727412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875727413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875728433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875728677	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512875776265	geckodriver	INFO	geckodriver 0.19.1
+1512875776274	geckodriver	INFO	Listening on 127.0.0.1:50275
+1512875777633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7RZQOY5uYWBP"
+1512875778885	Marionette	INFO	Enabled via --marionette
+1512875782261	Marionette	INFO	Listening on port 37200
+1512875782285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875782500	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875783069	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875783346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875783347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875784547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875784780	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512875809505	geckodriver	INFO	geckodriver 0.19.1
+1512875809517	geckodriver	INFO	Listening on 127.0.0.1:45845
+1512875810873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mRsbSPm9euJ8"
+1512875812137	Marionette	INFO	Enabled via --marionette
+1512875815819	Marionette	INFO	Listening on port 33608
+1512875815944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875816134	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875816548	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875816976	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875816976	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875818120	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875818383	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512875819229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9763, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512875914087	geckodriver	INFO	geckodriver 0.19.1
+1512875914097	geckodriver	INFO	Listening on 127.0.0.1:34348
+1512875915474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IuhannEzDUNF"
+1512875916734	Marionette	INFO	Enabled via --marionette
+1512875920090	Marionette	INFO	Listening on port 37854
+1512875920126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512875920343	Marionette	DEBUG	Register listener.js for window 2147483649
+1512875920873	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512875921237	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512875921238	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512875922379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512875922621	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512875923403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512898493213	geckodriver	INFO	geckodriver 0.19.1
+1512898493230	geckodriver	INFO	Listening on 127.0.0.1:45614
+1512898494658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5yimw7K0QjE2"
+1512898496230	Marionette	INFO	Enabled via --marionette
+1512898501141	Marionette	INFO	Listening on port 38969
+1512898501255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512898501711	Marionette	DEBUG	Register listener.js for window 2147483649
+1512898502211	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512898502850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512898502851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512898504971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512898508247	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512898509338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 3105, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512898596808	geckodriver	INFO	geckodriver 0.19.1
+1512898596817	geckodriver	INFO	Listening on 127.0.0.1:35588
+1512898598165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rLrAr9XWMn3T"
+1512898599471	Marionette	INFO	Enabled via --marionette
+1512898602975	Marionette	INFO	Listening on port 46665
+1512898603021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512898603262	Marionette	DEBUG	Register listener.js for window 2147483649
+1512898603810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512898604755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512898604755	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512898606021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512898606357	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512898607135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512899377142	geckodriver	INFO	geckodriver 0.19.1
+1512899377151	geckodriver	INFO	Listening on 127.0.0.1:37293
+1512899378515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5vkZoWa3SPsv"
+1512899379761	Marionette	INFO	Enabled via --marionette
+1512899383319	Marionette	INFO	Listening on port 34387
+1512899383387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512899383594	Marionette	DEBUG	Register listener.js for window 2147483649
+1512899384049	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512899384441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512899384443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512899385660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512899389735	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512899395171	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512899395690	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512899395699	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512899397000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512899397227	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512899493919	geckodriver	INFO	geckodriver 0.19.1
+1512899493929	geckodriver	INFO	Listening on 127.0.0.1:34111
+1512899495281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wLtjaL9i9ev9"
+1512899496531	Marionette	INFO	Enabled via --marionette
+1512899499899	Marionette	INFO	Listening on port 44591
+1512899500065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512899500287	Marionette	DEBUG	Register listener.js for window 2147483649
+1512899500845	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512899501199	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512899501200	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512899502541	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512899502755	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512899508151	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512899508679	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512899508689	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512899509797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512899510115	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[Child 3915, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 3915, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512899556591	geckodriver	INFO	geckodriver 0.19.1
+1512899556599	geckodriver	INFO	Listening on 127.0.0.1:41798
+1512899557969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JodumORmxERX"
+1512899559245	Marionette	INFO	Enabled via --marionette
+1512899563046	Marionette	INFO	Listening on port 44308
+1512899563114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512899563302	Marionette	DEBUG	Register listener.js for window 2147483649
+1512899563719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512899564075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512899564076	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512899565193	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512899565456	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512899570853	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512899571535	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512899571542	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512899573114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512899573419	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512899607155	geckodriver	INFO	geckodriver 0.19.1
+1512899607165	geckodriver	INFO	Listening on 127.0.0.1:40752
+1512899608537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.svFXRFGh5dsU"
+1512899609800	Marionette	INFO	Enabled via --marionette
+1512899613208	Marionette	INFO	Listening on port 46727
+1512899613412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512899613609	Marionette	DEBUG	Register listener.js for window 2147483649
+1512899614033	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512899614481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512899614482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512899616235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512899616577	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512899621973	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512899622475	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512899622483	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512899623808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512899624051	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512900347824	geckodriver	INFO	geckodriver 0.19.1
+1512900347834	geckodriver	INFO	Listening on 127.0.0.1:44845
+1512900349168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6BpYSRdIRdvz"
+1512900350452	Marionette	INFO	Enabled via --marionette
+1512900354022	Marionette	INFO	Listening on port 45371
+1512900354212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900354465	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900354831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900355216	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900355216	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900356481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900356780	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900362174	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900362830	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900362840	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900364003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900364324	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4361, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512900364464	geckodriver	INFO	geckodriver 0.19.1
+1512900364504	geckodriver	INFO	Listening on 127.0.0.1:49661
+1512900365850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QuOQCVdnyIm6"
+1512900367120	Marionette	INFO	Enabled via --marionette
+1512900370583	Marionette	INFO	Listening on port 44709
+1512900370752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900370968	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900511120	geckodriver	INFO	geckodriver 0.19.1
+1512900511129	geckodriver	INFO	Listening on 127.0.0.1:56467
+1512900512491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rSFH34hvdyqD"
+1512900513846	Marionette	INFO	Enabled via --marionette
+1512900517305	Marionette	INFO	Listening on port 32846
+1512900517444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900517667	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900518221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900518656	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900518658	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900519936	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900520237	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900525679	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900526372	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900526380	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900527896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900528298	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4605, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512900528481	geckodriver	INFO	geckodriver 0.19.1
+1512900528510	geckodriver	INFO	Listening on 127.0.0.1:52436
+1512900529860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v6N2hALWJWT8"
+1512900531130	Marionette	INFO	Enabled via --marionette
+1512900534756	Marionette	INFO	Listening on port 37177
+1512900534824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900535045	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512900593317	geckodriver	INFO	geckodriver 0.19.1
+1512900593326	geckodriver	INFO	Listening on 127.0.0.1:55324
+1512900594676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cFruBAga4uPi"
+1512900595928	Marionette	INFO	Enabled via --marionette
+1512900599259	Marionette	INFO	Listening on port 32814
+1512900599338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900599591	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900600066	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900600391	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900600391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900601560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900601737	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900607118	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900607706	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900607716	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900609113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900609354	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512900609508	geckodriver	INFO	geckodriver 0.19.1
+1512900609604	geckodriver	INFO	Listening on 127.0.0.1:32955
+1512900610877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cMHUtvISvosD"
+1512900612142	Marionette	INFO	Enabled via --marionette
+1512900615753	Marionette	INFO	Listening on port 37234
+1512900615869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900616076	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900723014	geckodriver	INFO	geckodriver 0.19.1
+1512900723022	geckodriver	INFO	Listening on 127.0.0.1:39877
+1512900724351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RtEFS6RJww80"
+1512900725607	Marionette	INFO	Enabled via --marionette
+1512900729098	Marionette	INFO	Listening on port 39745
+1512900729205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900729417	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900729977	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900730753	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900730754	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900731886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900732107	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900737589	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900738193	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900738201	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900739486	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900739762	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512900739943	geckodriver	INFO	geckodriver 0.19.1
+1512900739971	geckodriver	INFO	Listening on 127.0.0.1:58987
+1512900741279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R3vlBs8ChZF7"
+1512900742528	Marionette	INFO	Enabled via --marionette
+1512900745831	Marionette	INFO	Listening on port 37406
+1512900745922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900746133	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900869394	geckodriver	INFO	geckodriver 0.19.1
+1512900869404	geckodriver	INFO	Listening on 127.0.0.1:52050
+1512900870782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YuN5aRsIwc8h"
+1512900872039	Marionette	INFO	Enabled via --marionette
+1512900875477	Marionette	INFO	Listening on port 37340
+1512900875662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900875895	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900876316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900876691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900876692	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900877805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900878029	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900883433	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900884214	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900884222	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900885495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900885842	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[Child 5318, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512900885999	geckodriver	INFO	geckodriver 0.19.1
+1512900886009	geckodriver	INFO	Listening on 127.0.0.1:38858
+1512900887373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ngOwmT0wUjBn"
+1512900888639	Marionette	INFO	Enabled via --marionette
+1512900892198	Marionette	INFO	Listening on port 35665
+1512900892393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900892586	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512900946800	geckodriver	INFO	geckodriver 0.19.1
+1512900946810	geckodriver	INFO	Listening on 127.0.0.1:46412
+1512900948164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yIh0z4s3djuG"
+1512900949420	Marionette	INFO	Enabled via --marionette
+1512900952974	Marionette	INFO	Listening on port 46809
+1512900953025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900953209	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900953733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900954034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900954035	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900955304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512900955536	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512900960901	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512900961441	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512900961448	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512900962704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512900962921	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512900963132	geckodriver	INFO	geckodriver 0.19.1
+1512900963162	geckodriver	INFO	Listening on 127.0.0.1:46052
+1512900964494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OnuTMOfIn1e3"
+1512900965753	Marionette	INFO	Enabled via --marionette
+1512900969507	Marionette	INFO	Listening on port 32912
+1512900969566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512900969774	Marionette	DEBUG	Register listener.js for window 2147483649
+1512900970128	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512900970862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512900970863	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512900971967	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512900972208	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512901036971	geckodriver	INFO	geckodriver 0.19.1
+1512901036980	geckodriver	INFO	Listening on 127.0.0.1:53703
+1512901038311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Vf6FBGLoWLcw"
+1512901039577	Marionette	INFO	Enabled via --marionette
+1512901042963	Marionette	INFO	Listening on port 40265
+1512901043193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901043391	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901043876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901044209	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901044209	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901045264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901045566	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901050972	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901051490	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901051497	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901052748	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901052999	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901053191	geckodriver	INFO	geckodriver 0.19.1
+1512901053273	geckodriver	INFO	Listening on 127.0.0.1:51816
+1512901054545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TcPttJ356pDZ"
+1512901055841	Marionette	INFO	Enabled via --marionette
+1512901059256	Marionette	INFO	Listening on port 38816
+1512901059302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901059502	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901060043	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901060664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901060665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901061800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901062045	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512901088671	geckodriver	INFO	geckodriver 0.19.1
+1512901088681	geckodriver	INFO	Listening on 127.0.0.1:48570
+1512901090062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ee0kKZNbnn97"
+1512901091339	Marionette	INFO	Enabled via --marionette
+1512901094951	Marionette	INFO	Listening on port 34928
+1512901095014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901095220	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901095607	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901096074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901096075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901097280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901097521	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901103055	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512901108314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512901113422	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901114333	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901114353	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901115556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901115849	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901116024	geckodriver	INFO	geckodriver 0.19.1
+1512901116093	geckodriver	INFO	Listening on 127.0.0.1:42512
+1512901117387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Bx5Q21Do15Jx"
+1512901118643	Marionette	INFO	Enabled via --marionette
+1512901122042	Marionette	INFO	Listening on port 38154
+1512901122211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901122432	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901122885	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901123353	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901123354	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901124390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901124596	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512901161624	geckodriver	INFO	geckodriver 0.19.1
+1512901161634	geckodriver	INFO	Listening on 127.0.0.1:47290
+1512901162965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3nUN65Q2bLFr"
+1512901164186	Marionette	INFO	Enabled via --marionette
+1512901167509	Marionette	INFO	Listening on port 33915
+1512901167703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901167909	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901168377	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901168670	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901168671	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901169754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901169984	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901175355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901175873	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901175882	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901177093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901177331	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901177495	geckodriver	INFO	geckodriver 0.19.1
+1512901177566	geckodriver	INFO	Listening on 127.0.0.1:39429
+1512901178856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kgtB2wO97I49"
+1512901180106	Marionette	INFO	Enabled via --marionette
+1512901183524	Marionette	INFO	Listening on port 33040
+1512901183686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901183914	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901184259	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901185162	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901185163	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901186201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901186435	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901283437	geckodriver	INFO	geckodriver 0.19.1
+1512901283447	geckodriver	INFO	Listening on 127.0.0.1:39779
+1512901284797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qpzcpTG34VoV"
+1512901286069	Marionette	INFO	Enabled via --marionette
+1512901289719	Marionette	INFO	Listening on port 45311
+1512901289770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901290014	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901290322	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901290632	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901290632	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901291672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901291897	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901297284	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901297990	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901297997	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901299201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901299400	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901302554	geckodriver	INFO	geckodriver 0.19.1
+1512901302614	geckodriver	INFO	Listening on 127.0.0.1:50852
+1512901303887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6OaThuCnJmZG"
+1512901305128	Marionette	INFO	Enabled via --marionette
+1512901308415	Marionette	INFO	Listening on port 35628
+1512901308461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901308668	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901309227	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901309685	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901309686	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901310872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901314958	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901396795	geckodriver	INFO	geckodriver 0.19.1
+1512901396805	geckodriver	INFO	Listening on 127.0.0.1:39975
+1512901398131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tFnUefxS3pIP"
+1512901399369	Marionette	INFO	Enabled via --marionette
+1512901402720	Marionette	INFO	Listening on port 34970
+1512901402889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901403068	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901403493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901403947	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901403948	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901405306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901405565	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901410922	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901411501	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901411510	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901421756	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901421981	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901425155	geckodriver	INFO	geckodriver 0.19.1
+1512901425212	geckodriver	INFO	Listening on 127.0.0.1:50090
+1512901426540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.etxvInnb06Vs"
+1512901427797	Marionette	INFO	Enabled via --marionette
+1512901431378	Marionette	INFO	Listening on port 43951
+1512901431485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901431700	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901432067	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901432705	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901432707	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901433985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901434249	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901469678	geckodriver	INFO	geckodriver 0.19.1
+1512901469687	geckodriver	INFO	Listening on 127.0.0.1:36432
+1512901471032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ci4V6olhDn1X"
+1512901472335	Marionette	INFO	Enabled via --marionette
+1512901476080	Marionette	INFO	Listening on port 32840
+1512901476182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901476384	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901476801	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901477152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901477152	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901478438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901478668	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901484046	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901484703	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901484723	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901486053	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901486265	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901489538	geckodriver	INFO	geckodriver 0.19.1
+1512901489564	geckodriver	INFO	Listening on 127.0.0.1:56171
+1512901490849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vxk9Jg9Xgi95"
+1512901492100	Marionette	INFO	Enabled via --marionette
+1512901495677	Marionette	INFO	Listening on port 37437
+1512901495796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901495982	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901496374	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901497031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901497032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901498424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901498639	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901498751	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901499122	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901499125	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901499478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901499836	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+[Parent 7093, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512901607581	geckodriver	INFO	geckodriver 0.19.1
+1512901607592	geckodriver	INFO	Listening on 127.0.0.1:52037
+1512901608942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t1E22khkFTSp"
+1512901610217	Marionette	INFO	Enabled via --marionette
+1512901613706	Marionette	INFO	Listening on port 34279
+1512901613880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901614107	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901614465	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901614860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901614862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901616184	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512901616551	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512901621957	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512901622630	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512901622637	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512901624104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512901624303	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512901627517	geckodriver	INFO	geckodriver 0.19.1
+1512901627569	geckodriver	INFO	Listening on 127.0.0.1:59346
+1512901628851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ww28kiyJRkre"
+1512901630110	Marionette	INFO	Enabled via --marionette
+1512901633512	Marionette	INFO	Listening on port 45845
+1512901633606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512901633824	Marionette	DEBUG	Register listener.js for window 2147483649
+1512901634315	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512901635453	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512901635454	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512901636413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901636654	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901641773	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901642260	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901642265	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901642611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512901642823	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512908837902	geckodriver	INFO	geckodriver 0.19.1
+1512908837913	geckodriver	INFO	Listening on 127.0.0.1:33595
+1512908839241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eDD9QO9lSm2o"
+1512908840519	Marionette	INFO	Enabled via --marionette
+1512908843978	Marionette	INFO	Listening on port 34459
+1512908844211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512908844449	Marionette	DEBUG	Register listener.js for window 2147483649
+1512908844833	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512908846143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512908846145	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512908847285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512908847550	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512908852916	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512908853156	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512908853164	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512908853497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login"
+1512908853679	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login"
+[Child 8134, Chrome_ChildThread] WARNING: pipe error (19): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512908856803	geckodriver	INFO	geckodriver 0.19.1
+1512908856836	geckodriver	INFO	Listening on 127.0.0.1:59188
+1512908858171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JUfi5vBaZYMx"
+1512908859467	Marionette	INFO	Enabled via --marionette
+1512908862085	geckodriver	INFO	geckodriver 0.19.1
+1512908862094	geckodriver	INFO	Listening on 127.0.0.1:60183
+1512908863441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dTX8uZo7eFmf"
+1512908864704	Marionette	INFO	Enabled via --marionette
+1512908868688	Marionette	INFO	Listening on port 34288
+1512908868799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512908868990	Marionette	DEBUG	Register listener.js for window 2147483649
+1512908869388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512908871228	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512908871230	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512908872472	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512908872742	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512908878110	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512908878648	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512908878656	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512908879894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512908880112	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512908883344	geckodriver	INFO	geckodriver 0.19.1
+1512908883384	geckodriver	INFO	Listening on 127.0.0.1:38880
+1512908884703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L93nVHQHgaXE"
+1512908885955	Marionette	INFO	Enabled via --marionette
+1512908889305	Marionette	INFO	Listening on port 40509
+1512908889380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512908889566	Marionette	DEBUG	Register listener.js for window 2147483649
+1512908890079	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512908890560	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512908890560	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512908891624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512908891870	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512908892062	Marionette	DEBUG	Register listener.js for window 2147483653
+1512908892234	Marionette	DEBUG	Register listener.js for window 2147483656
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909560476	geckodriver	INFO	geckodriver 0.19.1
+1512909560486	geckodriver	INFO	Listening on 127.0.0.1:56668
+1512909561865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ik8mV6WM22Fa"
+1512909563193	Marionette	INFO	Enabled via --marionette
+1512909566842	Marionette	INFO	Listening on port 38095
+1512909566941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909567172	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909567470	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909572846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909572846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909574876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512909575915	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512909581345	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512909581900	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512909581908	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512909585657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512909585947	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512909589177	Marionette	DEBUG	Register listener.js for window 2147483654
+1512909589322	Marionette	DEBUG	Register listener.js for window 2147483657
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909671614	geckodriver	INFO	geckodriver 0.19.1
+1512909671625	geckodriver	INFO	Listening on 127.0.0.1:44674
+1512909672951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YL47fsVFWAfc"
+1512909674199	Marionette	INFO	Enabled via --marionette
+1512909677611	Marionette	INFO	Listening on port 40107
+1512909677779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909677990	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909678426	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909678771	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909678772	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909680084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/"
+1512909680396	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/"
+1512909685794	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/"
+1512909686343	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/"
+1512909686353	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/"
+1512909687505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512909687874	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512909691094	Marionette	DEBUG	Register listener.js for window 2147483654
+1512909691257	Marionette	DEBUG	Register listener.js for window 2147483657
+[Parent 8681, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909786877	geckodriver	INFO	geckodriver 0.19.1
+1512909786887	geckodriver	INFO	Listening on 127.0.0.1:38607
+1512909788214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RZGkRrP0iyIb"
+1512909789445	Marionette	INFO	Enabled via --marionette
+1512909792812	Marionette	INFO	Listening on port 39295
+1512909792862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909793063	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909793601	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909794198	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909794199	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909795492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909795754	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909799226	Marionette	DEBUG	Register listener.js for window 2147483653
+1512909799396	Marionette	DEBUG	Register listener.js for window 2147483656
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909807997	geckodriver	INFO	geckodriver 0.19.1
+1512909808006	geckodriver	INFO	Listening on 127.0.0.1:54140
+1512909809424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.c1RD5OysrrxZ"
+1512909810713	Marionette	INFO	Enabled via --marionette
+1512909814208	Marionette	INFO	Listening on port 46672
+1512909814390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909814664	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909815042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909815539	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909815540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909816809	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909817100	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909820609	Marionette	DEBUG	Register listener.js for window 2147483653
+1512909820765	Marionette	DEBUG	Register listener.js for window 2147483656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909864194	geckodriver	INFO	geckodriver 0.19.1
+1512909864203	geckodriver	INFO	Listening on 127.0.0.1:33409
+1512909865601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lmJm1oWqUr84"
+1512909866871	Marionette	INFO	Enabled via --marionette
+1512909870344	Marionette	INFO	Listening on port 34388
+1512909870584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909870834	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909871135	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909872627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909872628	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909879898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909880120	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909883561	Marionette	DEBUG	Register listener.js for window 2147483653
+1512909883701	Marionette	DEBUG	Register listener.js for window 2147483656
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512909922989	geckodriver	INFO	geckodriver 0.19.1
+1512909922999	geckodriver	INFO	Listening on 127.0.0.1:34564
+1512909924325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GkKUFOTSjk1v"
+1512909925586	Marionette	INFO	Enabled via --marionette
+1512909929203	Marionette	INFO	Listening on port 37101
+1512909929269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512909929485	Marionette	DEBUG	Register listener.js for window 2147483649
+1512909929810	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512909930468	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512909930470	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512909931929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909932173	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909940539	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909941325	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909941332	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512909942542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512909942759	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512909945945	Marionette	DEBUG	Register listener.js for window 2147483654
+1512909946082	Marionette	DEBUG	Register listener.js for window 2147483657
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512910391618	geckodriver	INFO	geckodriver 0.19.1
+1512910391627	geckodriver	INFO	Listening on 127.0.0.1:38492
+1512910393005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cWm3ZJjDnG1v"
+1512910394307	Marionette	INFO	Enabled via --marionette
+1512910397906	Marionette	INFO	Listening on port 42230
+1512910397965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910398183	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910398527	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512910399190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512910399191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512910400233	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910400468	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910408836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910409385	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910409395	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910410543	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512910410873	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512910414064	Marionette	DEBUG	Register listener.js for window 2147483654
+1512910414207	Marionette	DEBUG	Register listener.js for window 2147483657
+1512910568156	geckodriver	INFO	geckodriver 0.19.1
+1512910568167	geckodriver	INFO	Listening on 127.0.0.1:59336
+1512910569542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bO86rIYenuCk"
+1512910570795	Marionette	INFO	Enabled via --marionette
+1512910574302	Marionette	INFO	Listening on port 42197
+1512910574386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910574578	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910575101	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512910575854	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512910575854	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512910577063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910577308	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910585677	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910586245	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910586259	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910587407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512910587644	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1512910632964	geckodriver	INFO	geckodriver 0.19.1
+1512910632973	geckodriver	INFO	Listening on 127.0.0.1:49060
+1512910634349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JkGfms5y6M9k"
+1512910635634	Marionette	INFO	Enabled via --marionette
+1512910639140	Marionette	INFO	Listening on port 40356
+1512910639187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910639409	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910639898	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512910640410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512910640411	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512910641682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910642019	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910650416	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910650933	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910650947	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910652122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512910652353	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512910655537	geckodriver	INFO	geckodriver 0.19.1
+1512910655547	geckodriver	INFO	Listening on 127.0.0.1:36121
+1512910656871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DcO1mkUPWF4d"
+1512910658108	Marionette	INFO	Enabled via --marionette
+1512910661459	Marionette	INFO	Listening on port 42856
+1512910661531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910661739	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910683107	geckodriver	INFO	geckodriver 0.19.1
+1512910683117	geckodriver	INFO	Listening on 127.0.0.1:45437
+1512910684428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ix3Ho4E9XE8H"
+1512910685693	Marionette	INFO	Enabled via --marionette
+1512910689160	Marionette	INFO	Listening on port 37616
+1512910689227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910689473	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910689976	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512910695456	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512910695457	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512910696929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910697161	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910705538	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910706138	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910706145	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910707457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512910707692	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512910710799	geckodriver	INFO	geckodriver 0.19.1
+1512910710875	geckodriver	INFO	Listening on 127.0.0.1:46785
+1512910712135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DQnKh1V7VzuV"
+1512910713388	Marionette	INFO	Enabled via --marionette
+1512910716884	Marionette	INFO	Listening on port 44364
+1512910717098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512910717317	Marionette	DEBUG	Register listener.js for window 2147483649
+1512910717687	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512910718266	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512910718267	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512910719772	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910720066	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910720180	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910720456	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910720459	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512910721729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512910721935	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512911028156	geckodriver	INFO	geckodriver 0.19.1
+1512911028165	geckodriver	INFO	Listening on 127.0.0.1:52779
+1512911029520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H1hR97ZdPvek"
+1512911030757	Marionette	INFO	Enabled via --marionette
+1512911034298	Marionette	INFO	Listening on port 36613
+1512911034402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911034587	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911034969	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911035655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911035656	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911037186	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911047285	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911055686	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911056206	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911056215	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911057866	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512911058111	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512911079692	geckodriver	INFO	geckodriver 0.19.1
+1512911079702	geckodriver	INFO	Listening on 127.0.0.1:48207
+1512911081069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.38lqO8cONedn"
+1512911082342	Marionette	INFO	Enabled via --marionette
+1512911085944	Marionette	INFO	Listening on port 36724
+1512911086040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911086251	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911086545	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911087025	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911087026	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911088087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911088344	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911088501	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911088871	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911088877	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911090041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512911090353	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512911099989	geckodriver	INFO	geckodriver 0.19.1
+1512911099998	geckodriver	INFO	Listening on 127.0.0.1:49536
+1512911101371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5NTaYsrHwnkp"
+1512911102614	Marionette	INFO	Enabled via --marionette
+1512911106128	Marionette	INFO	Listening on port 43848
+1512911106243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911106429	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911106752	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911107355	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911107357	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911108453	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911108674	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911108790	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911109029	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911109033	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911110199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512911110564	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[Parent 10381, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512911267879	geckodriver	INFO	geckodriver 0.19.1
+1512911267889	geckodriver	INFO	Listening on 127.0.0.1:46239
+1512911269244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bQmiz9n3AdCx"
+1512911270495	Marionette	INFO	Enabled via --marionette
+1512911273853	Marionette	INFO	Listening on port 42260
+1512911273894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911274122	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911274597	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911275217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911275220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911276326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911276564	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911276684	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911277002	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911277006	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911278725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512911278942	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512911362434	geckodriver	INFO	geckodriver 0.19.1
+1512911362443	geckodriver	INFO	Listening on 127.0.0.1:36517
+1512911363823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qCN7CBFBi3h4"
+1512911365085	Marionette	INFO	Enabled via --marionette
+1512911368848	Marionette	INFO	Listening on port 34792
+1512911368897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911369121	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911369491	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911370120	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911370121	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911371434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911371715	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911371844	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911372380	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911372384	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911372911	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911373278	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911647687	geckodriver	INFO	geckodriver 0.19.1
+1512911647698	geckodriver	INFO	Listening on 127.0.0.1:42168
+1512911649051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CDygclXPPRdU"
+1512911650304	Marionette	INFO	Enabled via --marionette
+1512911653642	Marionette	INFO	Listening on port 39497
+1512911653722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911653934	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911654403	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911655345	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911655346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911656759	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911657823	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911657943	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911658388	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911658392	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911658691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911659111	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911689264	geckodriver	INFO	geckodriver 0.19.1
+1512911689273	geckodriver	INFO	Listening on 127.0.0.1:59203
+1512911690653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pDsdoDj2kDbL"
+1512911691940	Marionette	INFO	Enabled via --marionette
+1512911695497	Marionette	INFO	Listening on port 43221
+1512911695724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911695927	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911696364	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911697225	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911697225	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911699390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911699807	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911699943	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911700482	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911700487	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911701061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911701427	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512911745165	geckodriver	INFO	geckodriver 0.19.1
+1512911745175	geckodriver	INFO	Listening on 127.0.0.1:55985
+1512911746507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VyEjUgRWEt8o"
+1512911747759	Marionette	INFO	Enabled via --marionette
+1512911751346	Marionette	INFO	Listening on port 41181
+1512911751447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911751629	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911752035	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911752679	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911752679	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911753740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911754021	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911759164	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911759733	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911759743	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911760066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911760521	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512911951555	geckodriver	INFO	geckodriver 0.19.1
+1512911951565	geckodriver	INFO	Listening on 127.0.0.1:49733
+1512911952932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wXBrE7bQx57j"
+1512911954225	Marionette	INFO	Enabled via --marionette
+1512911957964	Marionette	INFO	Listening on port 34194
+1512911958028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512911958243	Marionette	DEBUG	Register listener.js for window 2147483649
+1512911958728	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512911959442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512911959443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512911960787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512911961025	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 11047, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 10797, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512912009620	geckodriver	INFO	geckodriver 0.19.1
+1512912009630	geckodriver	INFO	Listening on 127.0.0.1:42155
+1512912010981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w3RToNheuKFW"
+1512912012249	Marionette	INFO	Enabled via --marionette
+1512912015716	Marionette	INFO	Listening on port 42505
+1512912015899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912016156	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912016568	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912016989	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912016990	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912018129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912018331	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912067478	geckodriver	INFO	geckodriver 0.19.1
+1512912067487	geckodriver	INFO	Listening on 127.0.0.1:36026
+1512912068860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.snokJFz2JyCN"
+1512912070165	Marionette	INFO	Enabled via --marionette
+1512912073622	Marionette	INFO	Listening on port 33456
+1512912073711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912073905	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912074388	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912074925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912074926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912076496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912076696	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912078848	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912079412	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912079415	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912079718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912080098	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512912102099	geckodriver	INFO	geckodriver 0.19.1
+1512912102109	geckodriver	INFO	Listening on 127.0.0.1:57824
+1512912103472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZPW0lEmNONNJ"
+1512912104718	Marionette	INFO	Enabled via --marionette
+1512912108014	Marionette	INFO	Listening on port 36032
+1512912108117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912108310	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912108802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912110431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912110432	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912112025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912112277	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912121437	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912122035	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912122039	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912122449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912122711	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+[Parent 11595, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512912151232	geckodriver	INFO	geckodriver 0.19.1
+1512912151242	geckodriver	INFO	Listening on 127.0.0.1:52130
+1512912152582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.W8v5qLDVx9FA"
+1512912153897	Marionette	INFO	Enabled via --marionette
+1512912157207	Marionette	INFO	Listening on port 39407
+1512912157276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912157501	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912157977	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912158621	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912158622	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912160357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912161051	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912161175	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912161781	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912161784	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912162175	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912162969	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912167066	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912167310	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912167315	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912167695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/login/Index"
+1512912167936	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/login/Index"
+1512912167972	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/login/Index"
+1512912168616	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/login/Index"
+1512912168621	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/login/Index"
+1512912168997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912169273	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912179450	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1512912179476	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512912380744	geckodriver	INFO	geckodriver 0.19.1
+1512912380754	geckodriver	INFO	Listening on 127.0.0.1:46868
+1512912382083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sujpXIwPtFcT"
+1512912383342	Marionette	INFO	Enabled via --marionette
+1512912386744	Marionette	INFO	Listening on port 44154
+1512912386835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912387044	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912387528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912390083	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912390084	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912395604	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912408199	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912408324	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912409235	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912409242	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912411023	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912415665	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912419764	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912421040	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912421048	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912421418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/login/Index"
+1512912428653	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/login/Index"
+1512912428746	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/login/Index"
+1512912429839	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/login/Index"
+1512912429845	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/login/Index"
+1512912429971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912430755	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912501695	geckodriver	INFO	geckodriver 0.19.1
+1512912501705	geckodriver	INFO	Listening on 127.0.0.1:51178
+1512912503038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mc0j82GGsNtE"
+1512912504373	Marionette	INFO	Enabled via --marionette
+1512912507667	Marionette	INFO	Listening on port 39994
+1512912507711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912507908	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912508490	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912509346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912509346	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912510560	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912510810	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912519176	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912519836	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912519850	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912521230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512912521521	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512912535667	geckodriver	INFO	geckodriver 0.19.1
+1512912535677	geckodriver	INFO	Listening on 127.0.0.1:40145
+1512912537053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fl0TC4XwYbPa"
+1512912538321	Marionette	INFO	Enabled via --marionette
+1512912541801	Marionette	INFO	Listening on port 38579
+1512912541986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912542214	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912542608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912543098	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912543099	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912544326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912544639	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912544770	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912545020	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912545027	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912546312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512912546623	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512912766013	geckodriver	INFO	geckodriver 0.19.1
+1512912766023	geckodriver	INFO	Listening on 127.0.0.1:45468
+1512912767379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HcY2RFJxhQUh"
+1512912768628	Marionette	INFO	Enabled via --marionette
+1512912772185	Marionette	INFO	Listening on port 36655
+1512912772242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912772452	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912772825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912773531	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912773532	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912774777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912774984	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912775100	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912775716	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912775721	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912776016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512912776289	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512912987378	geckodriver	INFO	geckodriver 0.19.1
+1512912987388	geckodriver	INFO	Listening on 127.0.0.1:39315
+1512912988720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JLWs7s8hNXvy"
+1512912989990	Marionette	INFO	Enabled via --marionette
+1512912993711	Marionette	INFO	Listening on port 45102
+1512912993799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512912993986	Marionette	DEBUG	Register listener.js for window 2147483649
+1512912994405	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512912995147	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512912995147	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512912996670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512912996880	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913005306	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913005828	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913005837	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913007004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512913007604	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512913017416	geckodriver	INFO	geckodriver 0.19.1
+1512913017425	geckodriver	INFO	Listening on 127.0.0.1:43137
+1512913018779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1BWinwvLW7Qs"
+1512913020035	Marionette	INFO	Enabled via --marionette
+1512913023620	Marionette	INFO	Listening on port 40169
+1512913023678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512913023927	Marionette	DEBUG	Register listener.js for window 2147483649
+1512913024192	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512913025455	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512913025456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512913026579	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913026878	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913027000	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913027221	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913027226	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913028401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512913028706	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512913075198	geckodriver	INFO	geckodriver 0.19.1
+1512913075208	geckodriver	INFO	Listening on 127.0.0.1:47063
+1512913076536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LOM4MLJCExvh"
+1512913077797	Marionette	INFO	Enabled via --marionette
+1512913081190	Marionette	INFO	Listening on port 37968
+1512913081414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512913081603	Marionette	DEBUG	Register listener.js for window 2147483649
+1512913081999	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512913082487	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512913082488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512913083633	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913083913	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913084035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913084322	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913084326	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913085591	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512913085797	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512913089938	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512913090267	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512913090274	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512913091015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/MyWish?site=9"
+1512913091278	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/MyWish?site=9"
+1512913492530	geckodriver	INFO	geckodriver 0.19.1
+1512913492540	geckodriver	INFO	Listening on 127.0.0.1:42258
+1512913493920	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xd2qMhDYVkYr"
+1512913495221	Marionette	INFO	Enabled via --marionette
+1512913498813	Marionette	INFO	Listening on port 35983
+1512913499032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512913499268	Marionette	DEBUG	Register listener.js for window 2147483649
+1512913499663	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512913500270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512913500271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512913501490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913501754	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913501892	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913502201	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913502205	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913503478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512913503771	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512913504058	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512913504370	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512913504375	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512913504921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Bidding?site=9"
+1512913505176	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Bidding?site=9"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12868, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512913811186	geckodriver	INFO	geckodriver 0.19.1
+1512913811195	geckodriver	INFO	Listening on 127.0.0.1:36952
+1512913812518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CDnqO3ZfX6Iv"
+1512913813771	Marionette	INFO	Enabled via --marionette
+1512913817196	Marionette	INFO	Listening on port 34154
+1512913817370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512913817553	Marionette	DEBUG	Register listener.js for window 2147483649
+1512913817959	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512913818674	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512913818675	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512913819881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913820105	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913820226	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913820543	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913820546	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512913821655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512913821868	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512913822011	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512913822327	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512913822332	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512913822844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Bidding?site=9"
+1512913823121	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Bidding?site=9"
+1512913825317	Marionette	DEBUG	Register listener.js for window 2147483655
+1512913825456	Marionette	DEBUG	Register listener.js for window 2147483658
+1512913825531	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512913827626	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Bidding?site=9"
+1512913827957	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Bidding?site=9"
+1512913827979	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Bidding?site=9"
+1512913829887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/MyWish?site=9"
+1512913830535	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/MyWish?site=9"
+1512913832713	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/MyWish?site=9"
+1512913833477	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/MyWish?site=9"
+1512913833493	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/MyWish?site=9"
+1512913834375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913834713	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913836918	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913837391	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913837397	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913838083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Profile?site=9"
+1512913838781	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Profile?site=9"
+1512913840913	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Profile?site=9"
+1512913841308	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Profile?site=9"
+1512913841313	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Profile?site=9"
+1512913841808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Bidding?site=9"
+1512913841928	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Bidding?site=9"
+1512913844088	Marionette	DEBUG	Register listener.js for window 2147483666
+1512913844213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512913846371	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Bidding?site=9"
+1512913846667	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Bidding?site=9"
+1512913846674	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Bidding?site=9"
+1512913847198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/MyWish?site=9"
+1512913847310	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/MyWish?site=9"
+1512913849399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/MyWish?site=9"
+1512913849696	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/MyWish?site=9"
+1512913849704	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/MyWish?site=9"
+1512913850181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913850295	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913852404	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913852666	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913852675	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913853131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Profile?site=9"
+1512913853264	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Profile?site=9"
+1512913855377	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Profile?site=9"
+1512913855661	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Profile?site=9"
+1512913855667	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Profile?site=9"
+1512913856181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Bidding?site=9"
+1512913856316	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Bidding?site=9"
+1512913858483	Marionette	DEBUG	Register listener.js for window 2147483674
+1512913858602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512913860657	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Bidding?site=9"
+1512913860945	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Bidding?site=9"
+1512913860949	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Bidding?site=9"
+1512913861338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/MyWish?site=9"
+1512913861434	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/MyWish?site=9"
+1512913863511	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/MyWish?site=9"
+1512913863824	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/MyWish?site=9"
+1512913863828	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/MyWish?site=9"
+1512913864418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512913864513	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/FinancialProduct?site=9"

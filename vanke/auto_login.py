@@ -72,12 +72,23 @@ def process(url):
     #     load_cookies(driver, 'cookies.pkl')
     #     driver.get(url)
 
-    btn_name_list = ['menubar_target', 'menubar_project', 'menubar_wish', 'menubar_product', 'menubar_profile']
-    while True:
-        for btn_name in btn_name_list:
-            btn = driver.find_element_by_id(btn_name)
-            btn.click()
-            time.sleep(2)
+    # btn_name_list = ['menubar_target', 'menubar_project', 'menubar_wish', 'menubar_product', 'menubar_profile']
+    # while True:
+    #     for btn_name in btn_name_list:
+    #         btn = driver.find_element_by_id(btn_name)
+    #         btn.click()
+    #         time.sleep(2)
+    url = "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+    driver.get(url)
+    var = '2711396'
+    link = driver.find_element_by_xpath('//a[@data-href="/ActivityTarget/Auction?id=' + var + '"]')
+    link.click()
+    time.sleep(2.0)
+
+    link.click()
+    # while True:
+    #     link.click()
+    #     time.sleep(0.04)
 
 def load_cookies(driver, f):
     try:

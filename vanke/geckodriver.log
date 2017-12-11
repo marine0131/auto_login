@@ -1353,3 +1353,960 @@
 1512913863828	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/MyWish?site=9"
 1512913864418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/FinancialProduct?site=9"
 1512913864513	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/FinancialProduct?site=9"
+1512990696587	geckodriver	INFO	geckodriver 0.19.1
+1512990696598	geckodriver	INFO	Listening on 127.0.0.1:40446
+1512990697969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UZNezQCewR03"
+1512990699258	Marionette	INFO	Enabled via --marionette
+1512990702748	Marionette	INFO	Listening on port 39560
+1512990702819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990703010	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990703501	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990703979	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990703980	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990705054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990705274	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990713784	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3491, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512990720330	geckodriver	INFO	geckodriver 0.19.1
+1512990720339	geckodriver	INFO	Listening on 127.0.0.1:46416
+1512990721713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8G7qunKhxKaU"
+1512990722986	Marionette	INFO	Enabled via --marionette
+1512990726447	Marionette	INFO	Listening on port 42389
+1512990726480	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990726730	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990727439	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990728145	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990728146	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990729172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990729505	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990738050	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990738973	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990738983	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990740190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512990740439	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512990747965	geckodriver	INFO	geckodriver 0.19.1
+1512990747975	geckodriver	INFO	Listening on 127.0.0.1:42528
+1512990749352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FIkmgCSpZhoE"
+1512990750620	Marionette	INFO	Enabled via --marionette
+1512990754296	Marionette	INFO	Listening on port 43235
+1512990754405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990754613	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990755061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990755530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990755531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990756740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990756993	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990757119	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990757519	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990757524	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990758775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512990759075	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512990759141	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512990759472	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512990759474	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512990760166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990760338	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990818713	geckodriver	INFO	geckodriver 0.19.1
+1512990818728	geckodriver	INFO	Listening on 127.0.0.1:58992
+1512990820053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LGyHPg3166zb"
+1512990821299	Marionette	INFO	Enabled via --marionette
+1512990824663	Marionette	INFO	Listening on port 42142
+1512990824736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990824926	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990825464	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990826172	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990826173	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990827318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990827555	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990827678	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990827985	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990827988	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990829189	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512990829676	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512990829726	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512990830063	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512990830066	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512990830664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990830807	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990868592	geckodriver	INFO	geckodriver 0.19.1
+1512990868600	geckodriver	INFO	Listening on 127.0.0.1:59165
+1512990869952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MxchAxsUWFG4"
+1512990871322	Marionette	INFO	Enabled via --marionette
+1512990874982	Marionette	INFO	Listening on port 42240
+1512990875043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512990875231	Marionette	DEBUG	Register listener.js for window 2147483649
+1512990875661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512990876390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512990876391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512990877593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990881669	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990881811	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990882060	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990882065	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512990883295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512990883558	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512990883605	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512990883874	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512990883877	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512990884558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990884706	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512990885063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512990907338	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1512990907373	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 3673, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512991901560	geckodriver	INFO	geckodriver 0.19.1
+1512991901570	geckodriver	INFO	Listening on 127.0.0.1:51617
+1512991902937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L8gGdVLFQUC3"
+1512991904193	Marionette	INFO	Enabled via --marionette
+1512991907820	Marionette	INFO	Listening on port 44076
+1512991907913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512991908148	Marionette	DEBUG	Register listener.js for window 2147483649
+1512991908419	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512991909004	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512991909005	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512991910145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512991910399	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512991910520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512991910844	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512991910847	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512991912131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512991912348	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512991912411	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512991912738	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512991912742	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512991913388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512991913540	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512991913923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 59: TypeError: window is null
+1512992162769	geckodriver	INFO	geckodriver 0.19.1
+1512992162779	geckodriver	INFO	Listening on 127.0.0.1:49997
+1512992164114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MkQlnTYpWidI"
+1512992165349	Marionette	INFO	Enabled via --marionette
+1512992168667	Marionette	INFO	Listening on port 35129
+1512992168833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992169040	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992169400	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992170033	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992170034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992171166	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992171368	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992171496	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992171798	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992171800	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992173021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992173321	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992173361	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992173707	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992173713	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992174311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992174774	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992175144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512992220038	geckodriver	INFO	geckodriver 0.19.1
+1512992220047	geckodriver	INFO	Listening on 127.0.0.1:44244
+1512992221419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BXYYEmhDz85v"
+1512992222686	Marionette	INFO	Enabled via --marionette
+1512992226360	Marionette	INFO	Listening on port 33994
+1512992226483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992226677	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992227054	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992227528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992227529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992228626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992228880	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992229019	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992229315	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992229318	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992230555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992230858	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992230930	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992231304	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992231309	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992231979	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992232445	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992232798	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992233089	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992268190	geckodriver	INFO	geckodriver 0.19.1
+1512992268200	geckodriver	INFO	Listening on 127.0.0.1:52270
+1512992269556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l6Fnp4HfjiJN"
+1512992270824	Marionette	INFO	Enabled via --marionette
+1512992274415	Marionette	INFO	Listening on port 45201
+1512992274539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992274730	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992275118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992275570	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992275571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992276784	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992276945	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992277066	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992277367	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992277372	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992278609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992278807	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992278847	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992279184	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992279189	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992279836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992280712	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992281031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992283351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4455, Gecko_IOThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512992403128	geckodriver	INFO	geckodriver 0.19.1
+1512992403137	geckodriver	INFO	Listening on 127.0.0.1:46380
+1512992404465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5yYvFJGDCJa1"
+1512992405712	Marionette	INFO	Enabled via --marionette
+1512992409321	Marionette	INFO	Listening on port 44798
+1512992409432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992409650	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992410126	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992410617	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992410618	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992412000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992412186	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992412321	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992412622	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992412625	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992413828	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992414057	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992414091	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992414420	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992414424	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992415054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992415232	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992415620	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992417935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1512992704905	geckodriver	INFO	geckodriver 0.19.1
+1512992704918	geckodriver	INFO	Listening on 127.0.0.1:37429
+1512992706246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Gfm7PpzUI40M"
+1512992707508	Marionette	INFO	Enabled via --marionette
+1512992711105	Marionette	INFO	Listening on port 34317
+1512992711151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992711382	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992711803	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992712359	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992712360	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992714006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992714331	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992714489	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992714933	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992714936	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992715365	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512992715688	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512992715726	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512992716105	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512992716108	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/OtherUserLogin"
+1512992716502	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2fActivityTarget%2fFloor%2f57843%3factivityid%3d12321&activityid=12321"
+1512992716679	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2fActivityTarget%2fFloor%2f57843%3factivityid%3d12321&activityid=12321"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512992739297	geckodriver	INFO	geckodriver 0.19.1
+1512992739307	geckodriver	INFO	Listening on 127.0.0.1:55387
+1512992740678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bRtA8RgARsLn"
+1512992741954	Marionette	INFO	Enabled via --marionette
+1512992745683	Marionette	INFO	Listening on port 45851
+1512992745743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992746024	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992746468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992747052	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992747053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992748157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992748425	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992756797	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992757302	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992757315	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992758527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992758766	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992763516	geckodriver	INFO	geckodriver 0.19.1
+1512992763525	geckodriver	INFO	Listening on 127.0.0.1:36721
+1512992764898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qfRhfdSqTJrz"
+1512992766165	Marionette	INFO	Enabled via --marionette
+1512992769666	Marionette	INFO	Listening on port 37252
+1512992769835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992770074	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992770462	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992771185	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992771186	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992772352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992772826	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992772948	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992773211	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992773214	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992774404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992774670	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992774739	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992775222	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992775230	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992775904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992776377	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992776748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992779057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992844855	geckodriver	INFO	geckodriver 0.19.1
+1512992844864	geckodriver	INFO	Listening on 127.0.0.1:57237
+1512992846235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rTTI6HOVZ9sf"
+1512992847497	Marionette	INFO	Enabled via --marionette
+1512992850974	Marionette	INFO	Listening on port 41520
+1512992851192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512992851382	Marionette	DEBUG	Register listener.js for window 2147483649
+1512992851802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512992852271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512992852272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512992853489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992853723	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992853848	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992854139	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992854142	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512992855452	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512992855679	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512992855729	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512992856044	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512992856047	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512992856645	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992857207	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512992857575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992859873	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992860216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992860560	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992860869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992861161	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992861479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992861825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992862152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992862458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992862792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992863078	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992863381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992863674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992863973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992864265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992864563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992864832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992865109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992865483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992865757	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992866069	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992866353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992866622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992866925	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992867227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992867520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992867838	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992868128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992868394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992868712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992868996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992869267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992869586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992869878	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992870163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992870455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992870758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992871027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992871356	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992871655	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992871935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992872232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992872513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992872815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992873109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992873398	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992873683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992873986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992874266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992874536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992874815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992875105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992875377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992875698	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992875975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992876245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992876555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992876835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992877104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992877384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992877670	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992877960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992878270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992878548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992878833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992879135	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992879405	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992879675	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992879979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992880288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992880584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992880869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992881164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992881435	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992881716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992881993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992882275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992882551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992882826	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992883108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992883382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992883660	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992883939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992884222	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992884491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992884778	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992885071	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992885348	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992885613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992885892	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992886170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992886448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992886730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992887006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992887291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992887571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992887856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992888128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992888408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992888687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992888984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992889270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992889545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992889828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992890099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992890372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992890663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992890954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992891235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992891510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992891785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992892053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992892340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992892610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992892879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992893163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992893456	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992893731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992894014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992894300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992894574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992894854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992895129	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992895404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992895669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992895952	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992896244	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992896524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992896817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992897102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992897375	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992897659	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992897938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992898219	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992898492	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992898790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992899065	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992899339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992899616	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992899909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992900193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992900486	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992900761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992901043	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992901322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992901608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992901887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992902164	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992902445	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992902739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992903037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992903312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992903580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992903869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992904149	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992904448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992904726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992905006	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992905274	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992905568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992905844	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992906150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992906441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992906717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992906987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992907264	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992907556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992907834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992908133	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992908407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992908696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992908961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992909235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992909506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992909793	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992910067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992910336	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992910607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992910884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992911163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992911431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992911730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992912002	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992912270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992912552	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992912828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992913093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992913390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992913666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992913951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992914232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992914514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992914794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992915064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992915340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992915609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992915891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992916169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992916444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992916728	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992917001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992917268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992917549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992917831	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992918109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992918376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992918658	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992918930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992919208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992919482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992919762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992920048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992920353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992920639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992920907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992921180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992921458	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992921746	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992922021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992922326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992922632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992922908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992923218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992923520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992923830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992924138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992924440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992924725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992925009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992925303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992925607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992925889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992926189	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992926472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992926753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992927037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992927315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992927583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992927874	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992928194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992928471	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992928750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992929035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992929301	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992929576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992929863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992930138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992930414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992930720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992931013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992931295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992931564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992931845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992932118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992932415	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992932692	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992932970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992933254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992933529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992933805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992934084	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992934358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992934631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992934913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992935198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992935464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992935758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992936042	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992936341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992936639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992936913	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992937182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992937478	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992937772	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992938068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992938337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992938612	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992938879	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992939165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992939455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992939734	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992940010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992940318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992940598	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992940875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992941158	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992941462	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992941792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992942090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992942374	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992942642	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992942910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512992943193	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993395995	geckodriver	INFO	geckodriver 0.19.1
+1512993396004	geckodriver	INFO	Listening on 127.0.0.1:51652
+1512993397356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DRuW8zyGJmeR"
+1512993398602	Marionette	INFO	Enabled via --marionette
+1512993402057	Marionette	INFO	Listening on port 36796
+1512993402233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512993402459	Marionette	DEBUG	Register listener.js for window 2147483649
+1512993402834	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512993403324	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512993403325	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512993404529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993408625	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512993418532	geckodriver	INFO	geckodriver 0.19.1
+1512993418542	geckodriver	INFO	Listening on 127.0.0.1:54820
+1512993419916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JZAJ1kpvwC1z"
+1512993421180	Marionette	INFO	Enabled via --marionette
+1512993424836	Marionette	INFO	Listening on port 36425
+1512993424887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512993425158	Marionette	DEBUG	Register listener.js for window 2147483649
+1512993425507	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512993426150	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512993426153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512993427397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993427663	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512993443126	geckodriver	INFO	geckodriver 0.19.1
+1512993443136	geckodriver	INFO	Listening on 127.0.0.1:59541
+1512993444514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uCnFe2oba4DE"
+1512993445842	Marionette	INFO	Enabled via --marionette
+1512993449617	Marionette	INFO	Listening on port 35686
+1512993449695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512993449998	Marionette	DEBUG	Register listener.js for window 2147483649
+1512993450417	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512993450945	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512993450945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512993452003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993452272	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993460662	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993461276	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993461286	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993462496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512993462730	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6166, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1512993468248	geckodriver	INFO	geckodriver 0.19.1
+1512993468258	geckodriver	INFO	Listening on 127.0.0.1:33211
+1512993469614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CpRHtQqxiTPT"
+1512993470850	Marionette	INFO	Enabled via --marionette
+1512993474557	Marionette	INFO	Listening on port 33090
+1512993474662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512993474978	Marionette	DEBUG	Register listener.js for window 2147483649
+1512993475314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512993475757	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512993475758	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512993476849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993477080	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993477202	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993477464	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993477467	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512993478679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512993478960	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512993479001	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512993479317	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512993479320	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512993479978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512993480478	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512993480836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993483168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993483491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993483815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993484153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993484452	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993484828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993485100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993485424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993485722	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993486107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993486442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993486721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512993487011	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512995966927	geckodriver	INFO	geckodriver 0.19.1
+1512995966937	geckodriver	INFO	Listening on 127.0.0.1:47547
+1512995968265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ud23qalpfcjy"
+1512995969512	Marionette	INFO	Enabled via --marionette
+1512995973105	Marionette	INFO	Listening on port 37153
+1512995973210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512995973398	Marionette	DEBUG	Register listener.js for window 2147483649
+1512995973802	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512995974412	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512995974413	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512995976158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512995976765	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512995976886	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512995977148	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512995977151	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512995979317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512995979794	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512995979855	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512995980285	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512995980291	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512995980913	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512995981060	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512995981434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512995983726	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1512996575709	geckodriver	INFO	geckodriver 0.19.1
+1512996575719	geckodriver	INFO	Listening on 127.0.0.1:56153
+1512996577086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CQF85rOJmTvy"
+1512996578352	Marionette	INFO	Enabled via --marionette
+1512996581862	Marionette	INFO	Listening on port 40925
+1512996582047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512996582270	Marionette	DEBUG	Register listener.js for window 2147483649
+1512996582645	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512996584521	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512996584522	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512996586204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996586461	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996586593	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996588203	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996588209	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996589879	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512996590112	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512996590171	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512996591105	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512996591112	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512996591728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512996591900	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512996592281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512996594610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512996620017	geckodriver	INFO	geckodriver 0.19.1
+1512996620027	geckodriver	INFO	Listening on 127.0.0.1:50486
+1512996621532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A523jrVIemge"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512996623173	Marionette	INFO	Enabled via --marionette
+1512996626940	Marionette	INFO	Listening on port 40374
+1512996627027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512996627260	Marionette	DEBUG	Register listener.js for window 2147483649
+1512996627550	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512996628186	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512996628189	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512996629288	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996629529	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996629656	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996630639	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996630643	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/Login/Index?ReturnUrl=%2f"
+1512996631959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/"
+1512996632185	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/"
+1512996632240	Marionette	DEBUG	Received DOM event "beforeunload" for "https://fang.vanke.com/"
+1512996632554	Marionette	DEBUG	Received DOM event "pagehide" for "https://fang.vanke.com/"
+1512996632558	Marionette	DEBUG	Received DOM event "unload" for "https://fang.vanke.com/"
+1512996633190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512996633670	Marionette	DEBUG	Received DOM event "pageshow" for "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+1512996634053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1512996636354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/domwalker29, type children failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+_getVisibleChildren@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js:1722:12
+_updateChildren@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js:1642:7
+_updateChildren/updatePromise<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/markup/markup.js:1651:18
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:507:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:960:5
+destroyInspector/this._destroyingInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2464:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/stylesheet37, type getOriginalLocation failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+getOriginalLocation@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:275:7
+_create@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:1086:23
+_populate/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:894:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:960:5
+destroyInspector/this._destroyingInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2464:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/stylesheet37, type getOriginalLocation failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+getOriginalLocation@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:275:7
+_create@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:1086:23
+_populate/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:894:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:960:5
+destroyInspector/this._destroyingInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2464:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/stylesheet37, type getOriginalLocation failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+getOriginalLocation@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:275:7
+_create@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:1086:23
+_populate/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:894:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:960:5
+destroyInspector/this._destroyingInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2464:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+console.error: 
+  Message: Error: Connection closed, pending request to server1.conn0.child1/stylesheet37, type getOriginalLocation failed
+
+Request stack:
+request@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1296:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1454:14
+getOriginalLocation@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:237:12
+getOriginalSourceStrings@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/models/rule.js:139:12
+updateSourceLink@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:275:7
+_create@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:124:5
+RuleEditor@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/views/rule-editor.js:77:3
+_createEditors@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:1086:23
+_populate/<@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js:894:28
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+  Stack:
+    destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1239:23
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/stylesheets.js:109:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/styles.js:40:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1241:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:960:5
+destroyInspector/this._destroyingInspector<@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js:2464:13
+_run@resource://devtools/shared/base-loader.js -> resource://devtools/shared/task.js:310:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+[Parent 6900, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-8FOPVg/firefox-57.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

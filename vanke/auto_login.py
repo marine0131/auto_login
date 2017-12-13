@@ -2,11 +2,11 @@ import time
 from selenium import webdriver
 import pickle
 import sys
-
+import re
 
 def login(url, name, passwd):
-    # driver = webdriver.Chrome(executable_path='/Users/resolvewang/Documents/program/driver/chromedriver')
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome(executable_path='C:\Python27\chromedriver')
+    # driver = webdriver.Firefox()
     # driver.maximize_window()
     driver.set_window_size(1200,800)
 
@@ -53,42 +53,52 @@ def login(url, name, passwd):
     # # chg_field = driver.find_element_by_class_name('pass-login-tab').find_element_by_class_name('account-title')
     # # chg_field.click()
 
+# >>>>>>>>>>>look from here
 def process(url):
-    driver = webdriver.Firefox()
+    # open chrome or firefox, set windows size, clear cookies
+    # driver = webdriver.Firefox()
+    driver = webdriver.Chrome(executable_path='C:\Python27\chromedriver')
     driver.set_window_size(1200,800)
     driver.get(url)
     driver.delete_all_cookies()
-
+    
     # load cookies
     load_cookies(driver, 'cookies.pkl')
+    
     # refresh
     driver.get(url)
 
-    # time.sleep(2.0)
-    # if driver.current_url == 'https://fang.vanke.com/Login/OtherUserLogin':
-    #     relogin_button = driver.find_element_by_class_name('btn')
-    #     relogin_button.click()
-    #     time.sleep(3.0)
-    #     load_cookies(driver, 'cookies.pkl')
-    #     driver.get(url)
-
-    # btn_name_list = ['menubar_target', 'menubar_project', 'menubar_wish', 'menubar_product', 'menubar_profile']
-    # while True:
-    #     for btn_name in btn_name_list:
-    #         btn = driver.find_element_by_id(btn_name)
-    #         btn.click()
-    #         time.sleep(2)
-    url = "https://fang.vanke.com/ActivityTarget/Floor/57843?activityid=12321"
+    # into the specified building website
+    url = "https://fang.vanke.com/ActivityTarget/Floor/58340?activityid=12418"
     driver.get(url)
-    var = '2711396'
-    link = driver.find_element_by_xpath('//a[@data-href="/ActivityTarget/Auction?id=' + var + '"]')
-    link.click()
+
+    # click blank space
+    driver.find_element_by_class_name('modal-backdrop').click()
+    # driver.find_element_by_xpath("//img[@src='/Content/images/bottom_logo.png']").click()
     time.sleep(2.0)
 
-    link.click()
-    # while True:
-    #     link.click()
-    #     time.sleep(0.04)
+    # find the excat room id
+    link = driver.find_element_by_xpath('//a[@data-href="/ActivityTarget/Auction?id=2740154"]')
+
+    # while loop
+    while True:
+        # if time reach the exact time
+        # if time.time() > 1513072920.000:  # 
+        if time.time() > 1513076400.000:   # 12/12 19:00
+            # click the link
+            link.click()
+            try:
+                driver.find_element_by_class_name(r"add_price*").click()
+                print time.time()
+            except Exception:
+                print("can not find button")
+            break
+        
+    # loop forever and print time
+    while True:
+        print(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(time.time())))
+        time.sleep(1.0)
+
 
 def load_cookies(driver, f):
     try:
@@ -112,8 +122,10 @@ if __name__ == '__main__':
         login_name = "13656678056"
         login_passwd = "314334wang"
         login(login_url, login_name, login_passwd)
+        
     elif sys.argv[1] == 'loop':
         url = "https://fang.vanke.com/"
         process(url)
+        
     else:
         pass
